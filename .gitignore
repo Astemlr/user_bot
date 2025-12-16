@@ -30,8 +30,8 @@ wheels/
 # Pyrogram sessions
 *.session
 *.session-journal
-user_bot_session*
-classic_bot*
+user_bot_session.session
+classic_bot.session
 
 # IDE
 .vscode/
@@ -43,6 +43,3 @@ classic_bot*
 # OS
 .DS_Store
 Thumbs.db
-
-
-
